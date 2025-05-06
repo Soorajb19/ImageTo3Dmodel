@@ -1,0 +1,9 @@
+torch
+numpy
+matplotlib
+Pillow
+rembg
+trimesh
+PyMCubes
+onnxruntime
+git+https://github.com/openai/shap-e.git
