@@ -11,4 +11,4 @@ This prototype takes a single object photo (e.g., a toy, chair, or car), removes
 ## 🚀 How to Run
 
 1. Clone the repository (if using locally)
-2. Set up a virtual environment:
+2. Set up a virtual environment
